@@ -7,4 +7,7 @@ const buildControl = (props) =>{
         <button className = {classes.more}>Add</button>
 
     </div>
-}
+} 
+
+
+export default buildControl;
